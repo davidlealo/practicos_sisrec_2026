@@ -179,3 +179,6 @@ dist/
 
 # Ignore pip cache
 pip-wheel-metadata/
+practico01/tarea/u1.base
+practico01/tarea/u1.test
+practico01/tarea/u.item
